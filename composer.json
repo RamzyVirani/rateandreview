@@ -1,0 +1,27 @@
+{
+  "name": "ramzyvirani/rateandreview",
+  "description": "Rate and Review Module for ramzyvirani/laravel-boilerplate",
+  "type": "library",
+  "authors": [
+    {
+      "name": "Ramzy Virani",
+      "email": "ramzy.rhv@gmail.com"
+    }
+  ],
+  "require": {
+    "laravelcollective/html": "^5.5"
+  },
+  "extra": {
+    "laravel": {
+      "providers": [
+        "RamzyVirani\\RateAndReview\\RateAndReviewServiceProvider"
+      ]
+    }
+  },
+  "autoload": {
+    "psr-4": {
+      "RamzyVirani\\RateAndReview\\": "src/"
+    }
+  },
+  "minimum-stability": "dev"
+}

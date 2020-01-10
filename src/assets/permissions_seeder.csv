@@ -1,0 +1,7 @@
+name,module_id,display_name,description,is_protected
+
+reviews.index,NULL,Reviews,"Index Reviews",0
+reviews.create,NULL,Reviews,"Create Reviews",0
+reviews.show,NULL,Reviews,"Show Reviews",0
+reviews.edit,NULL,Reviews,"Edit Reviews",0
+reviews.destroy,NULL,Reviews,"Destroy Reviews",0
