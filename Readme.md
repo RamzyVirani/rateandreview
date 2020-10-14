@@ -1,5 +1,8 @@
 # Rate And Review Module for the [Boilerplate](https://github.com/RamzyVirani/laravel-boilerplate)
 
+[![Maintainability](https://api.codeclimate.com/v1/badges/f9d72ed67b5eac5d01af/maintainability)](https://codeclimate.com/github/RamzyVirani/rateandreview/maintainability) 
+[![Test Coverage](https://api.codeclimate.com/v1/badges/f9d72ed67b5eac5d01af/test_coverage)](https://codeclimate.com/github/RamzyVirani/rateandreview/test_coverage)
+
 Install this package with my boilerplate to add Rate and Review feature in your application. This module registers below components in the application. 
 
 This module implements Laravel's polymorphic relations so that you can easily attach one or more models.
